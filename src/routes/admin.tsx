@@ -232,18 +232,7 @@ Khamim & Nisa`;
               />
             </div>
 
-            <div className="grid gap-2">
-              <label className="text-sm font-medium" htmlFor="guest-note">
-                Keterangan (opsional)
-              </label>
-              <textarea
-                id="guest-note"
-                value={guestNote}
-                onChange={(event) => setGuestNote(event.target.value)}
-                className="min-h-28 w-full resize-none rounded-3xl border border-input bg-transparent px-4 py-3 text-base shadow-sm focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
-                placeholder="Contoh: Keluarga dekat, teman kantor, dsb."
-              />
-            </div>
+            
 
             <div className="lg:col-span-2 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
               <p className="text-sm text-muted-foreground">
