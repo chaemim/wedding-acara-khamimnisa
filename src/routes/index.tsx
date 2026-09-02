@@ -485,9 +485,9 @@ function Wedding() {
               <br />
               Jalan Bahagia No. 11 RT. 05/RW. 01 Banyumudal Moga, Kabupaten Pemalang
             </p>
-            <div className="event-date event-card__date">
-              <div>SENIN</div>
-              <div className="big">07</div>
+            <div className="event-date event-card__date event-card__date--compact">
+              <div>SENIN-SELASA</div>
+              <div className="big">07-08</div>
               <div>
                 September
                 <br />

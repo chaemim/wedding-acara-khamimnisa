@@ -648,6 +648,14 @@
   line-height: 1;
   font-weight: 700;
 }
+.event-card__date--compact {
+  gap: 0.6rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+}
+.event-card__date--compact .big {
+  font-size: 2.7rem;
+}
 .time { margin: 1rem 0; font-weight: 500; color: var(--text); }
 .addr-title {
   font-family: 'Great Vibes', cursive;
