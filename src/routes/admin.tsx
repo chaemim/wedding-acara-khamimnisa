@@ -135,7 +135,7 @@ Tasyakuran
 🏡 Rumah Mempelai Pria:
 Jalan Bahagia No. 11 RT. 05/RW. 01 Banyumudal Moga, Kabupaten Pemalang
 
-Akad & Resepsi
+Akad Nikah
 📅 Sabtu, 5 September 2026
 🏡 Rumah Mempelai Wanita:
 Jalan Raya Moga Guci Sima Krajan, RT.3/RW.5, Sima Moga, Kabupaten Pemalang.
