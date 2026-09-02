@@ -130,6 +130,16 @@ Dengan segala kerendahan hati, perkenankan kami mengundang Bapak/Ibu/Saudara/i u
 
 ${url}
 
+Tasyakuran
+📅 Senin-Selasa, 7 - 8 September 2026
+🏡 Rumah Mempelai Pria:
+Jalan Bahagia No. 11 RT. 05/RW. 01 Banyumudal Moga, Kabupaten Pemalang
+
+Akad & Resepsi
+📅 Sabtu, 5 September 2026
+🏡 Rumah Mempelai Wanita:
+Jalan Raya Moga Guci Sima Krajan, RT.3/RW.5, Sima Moga, Kabupaten Pemalang.
+
 Merupakan suatu kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan untuk hadir dan memberikan doa restu. 
 
 Diharapkan melalui media ini sebagai pengganti undangan resmi maksud dan tujuan kami dapat tersampaikan. 
