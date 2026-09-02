@@ -131,7 +131,7 @@ Dengan segala kerendahan hati, perkenankan kami mengundang Bapak/Ibu/Saudara/i u
 ${url}
 
 Tasyakuran
-📅 Senin-Selasa, 7 - 8 September 2026
+📅 *Senin-Selasa, 7 - 8 September 2026*
 🏡 Rumah Mempelai Pria:
 Jalan Bahagia No. 11 RT. 05/RW. 01 Banyumudal Moga, Kabupaten Pemalang
 
